@@ -53,7 +53,7 @@ def ibuild_keyboard(buttons):
 
 
 def main_menu():
-    text = f"**- [سـورس ريبثون](https://t.me/Repthon)\
+    text = f"**- [سـورس ريبثون](https://t.me/aaddr2)\
         \n المسـاعد\
         \n\
         \n◽ ريبثون لـ {mention}**"
@@ -559,10 +559,10 @@ async def inline_handler(event):  # sourcery no-metrics
     else:
         buttons = [
             (
-                Button.url("قنـاة السـورس ⚒️", "https://t.me/Repthon"),
+                Button.url("قنـاة السـورس ⚒️", "https://t.me/aaddr2"),
                 Button.url(
                     "كـروب المـساعدة 📬",
-                    "https://t.me/Repthon_support",
+                    "https://t.me/aaddr2",
                 ),
             )
         ]
@@ -576,7 +576,7 @@ async def inline_handler(event):  # sourcery no-metrics
             \n❤ ريبثون هـو بـوت بسـيط يدخـل الـى حسـابك لجعـلك تتحـكم به معـ اوامـر معينـة.\
             \n\
             \n**اذا كـنت تـرغب بتـنصيـب السـورس عـلى حسـابك ,\
-            \n🐾 تعال الـى [كروب المسـاعدة](https://t.me/Repthon_support)!**",
+            \n🐾 تعال الـى [كروب المسـاعدة](https://t.me/aaddr2)!**",
             "md",
         )
         result = types.InputBotInlineResult(
@@ -584,7 +584,7 @@ async def inline_handler(event):  # sourcery no-metrics
             type="photo",
             title="jepiq 🧸♥",
             description="ادخـل كـروب المسـاعدة",
-            url="https://t.me/Repthon_support",
+            url="https://t.me/aaddr2",
             thumb=photo,
             content=photo,
             send_message=types.InputBotInlineMessageMediaAuto(
