@@ -24,7 +24,7 @@ from ..sql_helper.global_collection import (
 from ..sql_helper.globals import addgvar, delgvar, gvarstatus
 from .pluginmanager import load_module
 from .tools import create_supergroup
-LOGS = logging.getLogger("𝐑𝐄𝐏𝐓𝐇𝐎𝐍")
+LOGS = logging.getLogger("aaddr2")
 
 cmdhr = Config.COMMAND_HAND_LER
 bot = jepiq
@@ -115,7 +115,7 @@ async def mybot():
     f"ـ {jep_ment}"
     f"⪼ هذا هو بوت خاص بـ {jep_ment} يمكنك التواصل معه هنا"
     starkbot = await jepiq.tgbot.get_me()
-    perf = "ريبثون"
+    perf = "امير"
     bot_name = starkbot.first_name
     botname = f"@{starkbot.username}"
     if bot_name.endswith("Assistant"):
