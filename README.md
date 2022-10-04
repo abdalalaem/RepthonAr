@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/aaddr2"><img src="https://telegra.ph/file/fb6e5de12813c42531f51.jpg" width="5000"></a></p>
+<p align="center"><a href="https://t.me/aaddr2"><img src="https://telegra.ph/file/77bd89805fa10da0f431a.jpg" width="5000"></a></p>
 <h1 align="center"><b>aaddr2 🇾🇪🇶 </b></h1>
 <h4 align="center">𓆰♥️🧸 𝐖𝐞𝐥𝐂𝐨𝐦𝐞 𝑻𝐨 𝙎𝙊𝙐𝙍𝘾𝞝_aaddr2 ↷.</h4>
 
